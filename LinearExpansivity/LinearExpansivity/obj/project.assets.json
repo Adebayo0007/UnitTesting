@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\LinearExpansivity2\\LinearExpansivity\\LinearExpansivity\\LinearExpansivity.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Test\\LinearExpansivity2\\LinearExpansivity\\LinearExpansivity\\LinearExpansivity.csproj",
       "projectName": "LinearExpansivity",
-      "projectPath": "C:\\Users\\user\\Desktop\\LinearExpansivity2\\LinearExpansivity\\LinearExpansivity\\LinearExpansivity.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Test\\LinearExpansivity2\\LinearExpansivity\\LinearExpansivity\\LinearExpansivity.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\LinearExpansivity2\\LinearExpansivity\\LinearExpansivity\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Test\\LinearExpansivity2\\LinearExpansivity\\LinearExpansivity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
